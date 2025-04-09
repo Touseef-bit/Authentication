@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+
+Thumbs.db
+
+# IDE and editor-specific files
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
